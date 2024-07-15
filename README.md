@@ -1,7 +1,7 @@
-#Programa en funcionamiento
+# Programa en funcionamiento
 ---
-###PUB
+### PUB
 ![Image Pub Application](Img/PUB.png)
 
-###SUB
+### SUB
 ![Image Sub Application](Img/SUB.png)
